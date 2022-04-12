@@ -1,3 +1,3 @@
 # per-scholas-java-class
 Java FullStack class
-img src: https://extremeautomation.io/img/cheatsheets/cheat_sheet_java8_thumb.png
+![alt text](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/java-cheatsheet.jpg)
